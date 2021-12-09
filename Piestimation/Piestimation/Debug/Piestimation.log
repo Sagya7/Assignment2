@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\swalishe\desktop\crypto\piestimation\piestimation\main.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\swalishe\desktop\crypto\piestimation\piestimation\main.cpp(38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\swalishe\desktop\crypto\piestimation\piestimation\main.cpp(41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Piestimation.vcxproj -> C:\Users\SWalishe\Desktop\Crypto\Piestimation\Debug\Piestimation.exe
+  Piestimation.vcxproj -> C:\Users\SWalishe\Desktop\Crypto\Piestimation\Debug\Piestimation.pdb (Partial PDB)
