@@ -3,3 +3,5 @@ Name : Sagar Walishetti Roll No : CS21M513 Registered Mail ID : sagarwalishettii
 Steps of execution:
 
 Run the exe in windows 10 machine.
+
+Please use exe present in Debug/.exe 
